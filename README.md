@@ -1,2 +1,2 @@
 # MusicVideos
-Background Animations for Music Videos
+Developing Animations for Videos using Manim Package in python 
